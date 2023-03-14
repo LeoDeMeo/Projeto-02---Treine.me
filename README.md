@@ -4,7 +4,7 @@
 
 ---
 
-![Projeto02-IMG.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1735f55-ccf6-4fcd-97b0-f489c5cd39f4/Projeto02-IMG.png)
+![Projeto02-IMG.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9de87e6b-f639-4970-a2af-69c23a7b7eda/Projeto02-IMG.png)
 
 ## Projeto 02 - Treine.me
 
